@@ -1,0 +1,2 @@
+echo "test" | php core/mail.php -to "someemail@mail.com" -subject "this is a test"
+

@@ -1,0 +1,12 @@
+<?php
+	
+	class mail_config {
+		
+		var $host = "hostname";
+		var $username = "username@host.com";
+		var $password = "password";
+		var $from = "username@host.com";
+
+	}
+
+?>
